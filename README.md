@@ -326,6 +326,24 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [ISN AutoIt Studio](http://www.isnetwork.at/index.php?option=com_content&view=article&id=10&Itemid=115) - a complete IDE for the AutoIt programming language.
 - [ISN AutoIT form Studio](http://www.isnetwork.at/index.php?option=com_content&view=article&id=7&Itemid=116) - Graphical Form Designer for AutoIt.
 
+## Useful Resources
+
+### Documents
+
+- [AutoIt Online Document](https://www.autoitscript.com/autoit3/docs/)
+- [SciTE4AutoIt3 Online Document](https://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3.html)
+
+### Websites
+
+- [Official Website](https://www.autoitscript.com/)
+- [AutoIt Forum](https://www.autoitscript.com/forum/)
+ + [Vietnamese Forum](http://hocautoit.com/)
+ + [French Forum](http://www.autoitscript.fr/)
+- [AutoIt Wiki](https://www.autoitscript.com/wiki)
+- [Best coding practices](https://www.autoitscript.com/wiki/Best_coding_practices) - a detailed explanation of what are to be considered the best coding practices within AutoIt. These recommendations are based on accepted coding practices common to a number of other programming languages. You do not need to follow them, but it is recommended that you do.
+- [Snippets](https://www.autoitscript.com/wiki/AutoIt_Snippets) - generally single functions or small pieces of code which can be incorporated into a script to add extra functionality.
+- [Programs](https://www.autoitscript.com/wiki/AutoIt_Programs) - a list of programs created in AutoIt.
+
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
