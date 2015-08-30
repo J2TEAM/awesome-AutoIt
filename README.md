@@ -10,7 +10,7 @@ Created by [Juno_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome]
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Awesome AutoIt](#awesome-autoit)
+- [Awesome AutoIt](#awesome-autoit-)
   - [UDF/Libraries](#udflibraries)
     - [Automation](#automation)
       - [Browsers](#browsers)
