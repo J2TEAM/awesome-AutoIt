@@ -43,6 +43,25 @@ Listing of libraries of **user defined functions** (UDF). These libraries have b
 - [Microsoft Office PowerPoint (by Toady)](http://www.autoitscript.com/forum/index.php?showtopic=50254) - Automate Microsoft PowerPoint.
 - Microsoft Office Word (by water et al.) - This UDF is included in AutoIt. Link to the [documentation](https://www.autoitscript.com/wiki/Word_UDF) pages.
 
+#### OpenOffice
+
+- [OOo/LibO Calc (by GMK)](http://www.autoitscript.com/forum/index.php?showtopic=151530) - OpenOfficeCalc UDF.
+
+### Databases and web connections
+
+- [ADODB (by spudw2k)](http://www.autoitscript.com/forum/index.php?showtopic=105875) - ADODB Example.
+- [DBF (by funkey)](http://www.autoitscript.com/forum/index.php?showtopic=145142) - dBase database read and write with DLL.
+- [EzMySql (by oriz)](http://www.autoitscript.com/forum/index.php?showtopic=116072) - EzMySql - Use MySql Databases with autoit.
+- [FireBird (by eltorro)](http://www.autoitscript.com/forum/topic/94920-solved-passing-parameters-using-dllcall-to-a-c-dll/?do=findComment&comment=684751) - FireBird, Interbase dll udf.
+- [MS SQL (by TheLuBu)](http://www.autoitscript.com/forum/index.php?showtopic=127101) - MSSQL.au3.
+- [MS SQL (by ChrisL)](http://www.autoitscript.com/forum/index.php?showtopic=51952) - _SQL.au3. ADODB Connection.
+- [MySQL (by cdkid)](http://www.autoitscript.com/forum/index.php?showtopic=20814) - MySQL relational database management system UDF.
+- [MySQL (by ProgAndy)](http://www.autoitscript.com/forum/index.php?showtopic=85617) - MySQL UDFs (without ODBC).
+- [MySQL (by James)](https://www.autoitscript.com/forum/topic/122360-mysql-odbc-connector-udf) - MySQL ODBC Connector.
+- [SQLite (by ptrex)](http://www.autoitscript.com/forum/index.php?showtopic=17099) - SQLite is a library that implements a self-contained, embeddable, zero-configuration SQL database engine.
+- [SQLite Array Functions (by SmOke_N)](http://www.autoitscript.com/forum/index.php?showtopic=142977) - SQLite Array Functions - a faster method for unique arrays and sorting methods.
+- [XML DOM Wrapper (by eltorro)](http://www.autoitscript.com/forum/index.php?showtopic=19848) - Supports CRUD operations on XML. Including XSL and XPath.
+- [AutoIt PHP MySQL (by J2TeaM)](https://www.autoitscript.com/forum/topic/173984-the-combination-of-autoit-php-and-mysql/) - The combination of AutoIt, PHP and MySQL.
 
 ## License
 
