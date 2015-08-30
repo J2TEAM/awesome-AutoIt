@@ -411,3 +411,11 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+---
+
+## Other Awesome Lists
+
+- [awesome](https://github.com/sindresorhus/awesome)
+- [awesome-awesome](https://github.com/emijrp/awesome-awesome)
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
