@@ -105,6 +105,46 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [XSkin (by Valuater)](http://www.autoitscript.com/forum/index.php?showtopic=32494) - A large library that allows skinning of your GUI and to apply custom skins.  
 - [Real Vista Aero Glass (by James)](http://www.autoitscript.com/forum/index.php?showtopic=75429) - Real Vista Aero Glass UDF - you can apply glass effect to your gui.
 
+### Controls
+
+- [Calendar (by jmon)](http://www.autoitscript.com/forum/index.php?showtopic=146406) - Calendar UDF.
+- [Colorpicker (by Yashied)](http://www.autoitscript.com/forum/index.php?showtopic=96464) - Create a button for the user to select a color.
+- [GDIPlus Slider UDF (by Kanashius)](http://www.autoitscript.com/forum/index.php?showtopic=173929) - This UDF can be used to create a slider with an imagebackground and an image to move.
+- [Graph control (by andybiochem)](http://www.autoitscript.com/forum/index.php?showtopic=79412) - Easily create and show bar chart and line charts.
+- [GraphGDIPlus UDF (by andybiochem)](http://www.autoitscript.com/forum/index.php?showtopic=104399) - Easily create and show bar chart and line charts with GDI+ to take advantage of double-buffering.
+- [GUICtrlCreateFinder (by Mat)](http://www.autoitscript.com/forum/index.php?showtopic=105682) - Allows you to create a window finder control like the one seen in AutoIt Window Info.
+- [GUITreeViewEx (by Melba23)](http://www.autoitscript.com/forum/index.php?showtopic=166594) - Check/clear parent and child checkboxes in a TreeView.
+- [GUIHotkey (by Mat)](http://www.autoitscript.com/forum/index.php?showtopic=107965) - UDF for using native hotkey controls.
+- [GUIPager (by Mat)](http://www.autoitscript.com/forum/index.php?showtopic=111438) - Create and control native pager controls.
+- [GUI/Tray Menu (by Holger, LarsJ, AZJIO)](http://www.autoitscript.com/forum/index.php?showtopic=20967) - GUI/Tray Menu with icons and colors.
+- [Hotkey input control (by Yashied)](http://www.autoitscript.com/forum/index.php?showtopic=90598) - Hotkeys Input Control UDF Library (Non-native).
+- [ListView Edit UDF (by Kanashius)](http://www.autoitscript.com/forum/index.php?showtopic=173932) - This UDF can be used to simply edit an Listview.
+- [Marquees (by Melba23)](http://www.autoitscript.com/forum/index.php?showtopic=143711) - Make tickertape info bars.
+- [Progressbar with GDIplus (by ProgAndy)](http://www.autoitscript.com/forum/index.php?showtopic=74649) - You even can use full textured images.
+- [Ribbon (by trancexx)](http://www.autoitscript.com/forum/index.php?showtopic=128242) - UDF for Windows Ribbon framework.
+- [Syslink (by Yashied)](http://www.autoitscript.com/forum/index.php?showtopic=126958) - Provides a convenient way to embed hypertext links in a window.
+- [Table (by andybiochem)](http://www.autoitscript.com/forum/index.php?showtopic=105814) - Table UDF.
+
+### Hardware
+
+- [CommAPI](/wiki/CommAPI "CommAPI") (by therealhanuta) - Serial and parallel communication (COM port, RS-232, LPT port) - without installing DLL's (using Windows API calls).
+- [Device Management (by weaponx)](http://www.autoitscript.com/forum/index.php?showtopic=77731) - Device Management API.
+- [DirectShow (by monoceres)](http://www.autoitscript.com/forum/index.php?showtopic=97487) - DirectShow UDF.
+- [DirectSound (by eukalyptus)](http://www.autoitscript.com/forum/index.php?showtopic=164700) - DirectSound UDF.
+- [Direct2D (by eukalyptus)](http://www.autoitscript.com/forum/index.php?showtopic=164701) - Direct2D UDF.
+- [FritzBox (by Allow2010)](http://www.autoitscript.com/forum/index.php?showtopic=138989) - _FB_Tools - manage your FritzBox from Autoit.
+- [I/O Port Functions (by Ascend4nt)](http://www.autoitscript.com/forum/index.php?showtopic=121084) - Input/Output UDF for interacting with ports (x64 Parallel Port, Keyboard etc.).
+- [Monitor Configuration (by jaberwacky)](http://www.autoitscript.com/forum/index.php?showtopic=154350) - Monitor Configuration UDF.
+- [Mouse (by AlmarM)](http://www.autoitscript.com/forum/index.php?showtopic=155469) - AutoIt powered mouse events.
+- [MouseTrapEvent (by ozmike)](http://www.autoitscript.com/forum/index.php?showtopic=147325) - MouseTrapEvent UDF.
+- [NetInfo (by Nessie)](http://www.autoitscript.com/forum/index.php?showtopic=149083) - UDF for test internet download speed and upload speed.
+- [Network configuration (by jguinch)](http://www.autoitscript.com/forum/index.php?showtopic=155539) - Network configuration UDF.
+- [Serial Port/COM (by martin)](http://www.autoitscript.com/forum/index.php?showtopic=128546) - Serial Port /COM Port UDF.
+- [SMARTDRIVE (by ptrex)](http://www.autoitscript.com/forum/index.php?showtopic=27755) - SMART drive Analysis.
+- [SPI Hardware Interface (by Blinky)](http://www.autoitscript.com/forum/topic/158640-spi-hardware-interface) - Communicate with the MAX335 chip using the SPI protocol via the LPT (printer) port.
+- [Webcam (by LIMITER)](http://www.autoitscript.com/forum/index.php?showtopic=68866) - Webcam UDF.
+- [Webcam (by ludocus)](http://www.autoitscript.com/forum/index.php?showtopic=70857) - Webcam UDF.
+
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
