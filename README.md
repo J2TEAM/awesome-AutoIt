@@ -145,6 +145,80 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Webcam (by LIMITER)](http://www.autoitscript.com/forum/index.php?showtopic=68866) - Webcam UDF.
 - [Webcam (by ludocus)](http://www.autoitscript.com/forum/index.php?showtopic=70857) - Webcam UDF.
 
+### Information gathering
+
+- [Computer information (by JSThePatriot)](http://www.autoitscript.com/forum/index.php?showtopic=29404) - A general purpose library to get various details about a Windows machine.
+- [WinPcap (by JRSmile)](http://www.autoitscript.com/forum/index.php?showtopic=54039) - Wrapper for the windows packet capture library WinPcap.
+- [WinPcap (by Nicolas Ricquemaque)](http://opensource.grisambre.net/pcapau3/) - A library to access the main functionalities offered by the WinPcap driver.
+
+### Internet protocol suite
+
+- [cURL (by seangriffin)](http://www.autoitscript.com/forum/index.php?showtopic=137456) - A UDF for transferring data with URL syntax.
+- [cURL (by Ward)](http://www.autoitscript.com/forum/topic/173067-curl-udf-autoit-binary-code-version-of-libcurl-with-ssl-support/) - AutoIt binary code version of libcurl with SSL support.
+- [IMAP (by mikeytown2)](http://www.autoitscript.com/forum/index.php?showtopic=40243) - IMAP.
+- [IMAP4 (by Tipulatoid)](http://www.autoitscript.com/forum/index.php?showtopic=108422) - IMAP4 UDF.
+- [IRC (by McGod)](http://www.autoitscript.com/forum/index.php?showtopic=43515) - A lightweight library for communicating with IRC servers.
+- [IRC (by rcmaehl)](http://www.autoitscript.com/forum/index.php?showtopic=159285) - IRC UDF - Updated Version of Chips' IRC UDF.
+- [JSON (by Gabriel13)](http://www.autoitscript.com/forum/index.php?showtopic=104150) - RFC4627 compliant JSON encode/decode.
+- [JSON (by Ward)](http://www.autoitscript.com/forum/index.php?showtopic=148114) - JSMN - A Non-Strict JSON UDF.
+- [JSON (by ozmike)](http://www.autoitscript.com/forum/index.php?showtopic=156794) - Bridge to Native Windows JSON plus OO extension for AutoIt.
+- [JSONgen: JSON generator (by Jefrey)](http://www.autoitscript.com/forum/index.php?showtopic=173797) - UDF to generate JSON.
+- [POP3 (by Apzo)](http://www.autoitscript.com/forum/index.php?showtopic=22838) - POP3 library for retrieving email messages. Not compatible with Gmail because it uses SSL.
+- [_POP3_Ex (by mLipok)](http://www.autoitscript.com/forum/index.php?showtopic=167339) - POP3 UDF According to the 1939 RFC, modified version with Quoted Printable decoder.
+- [POP3 SSL (by Fox2)](http://www.autoitscript.com/forum/index.php?showtopic=64051) - A POP3 library that's compatible with Gmail. It uses an external executable that must be supplied with your script.
+- [Prowl (by mrflibblehat)](http://www.autoitscript.com/forum/index.php?showtopic=154530) - Push notifications to iPhone, iPod touch or iPad using Prowl (Growl client for iOS).
+- [Request (by Ward)](http://www.autoitscript.com/forum/topic/173129-request-udf-the-simplest-way-to-make-http-request) - Powerful and easy-to-use HTTP client for AutoIt based on Curl.au3 and Json.au3.
+- [SFTP (by Lupo73)](http://www.autoitscript.com/forum/index.php?showtopic=138095) - UDF to support SFTP protocol using PSFTP.
+- [SMTP (by Jos)](http://www.autoitscript.com/forum/index.php?showtopic=23860) - Smtp Mailer That Supports Html And Attachments.
+- [SNMP (by enaiman)](http://www.autoitscript.com/forum/index.php?showtopic=81687) - SNMP_UDF for SNMPv1 and SNMPv2c.
+- [SNMP - MIB protocol (by ptrex)](http://www.autoitscript.com/forum/index.php?showtopic=70759) - Reading toner status from SNMP device with WMI.
+- [SSH (by jeanphile)](http://www.autoitscript.com/forum/index.php?showtopic=166579) - Use the SSH protocol very easily in your code.
+- [TCPServer (by Jefrey)](http://www.autoitscript.com/forum/index.php?showtopic=169774) - Multi client, event-based, able to bind console app to socket.
+- [UPnP Protocol (by ptrex)](http://www.autoitscript.com/forum/index.php?showtopic=57022) - UPnP - Read and Control your devices in side out.
+- [WinHTTP (by trancexx)](http://www.autoitscript.com/forum/index.php?showtopic=84133) - Access the HTTP protocol for creating GET and POST requests and submitting them with conforming standards, cookies not supported.
+- [WinInet (by -Ultima-)](http://www.autoitscript.com/forum/index.php?showtopic=77503) - Access standard Internet protocols (FTP, Gopher and HTTP). Supports GET/POST requests and cookies.
+
+### Maths
+
+- [Advanced Math UDF (by scintilla4evr)](http://www.autoitscript.com/forum/index.php?showtopic=170658) - This is an UDF full of advanced mathematical functions. It allows to work with primes, create number sequences, interpolate, calculate values of functions like Riemann zeta.
+- [Advanced rounding (by Mat)](http://www.autoitscript.com/forum/index.php?showtopic=102686) - Support for different measures of accuracy and 8 ways to resolve tie breaks.
+- [Big number (by eukalyptus)](http://www.autoitscript.com/forum/index.php?showtopic=83529) - Make calculations with extremely large numbers that AutoIt normally is not able to support.
+- [Decimal To fraction (by Malkey)](http://www.autoitscript.com/forum/index.php?showtopic=106551) - Converts any decimal number to a fraction. Example: 1.2 to 6/5.
+- [Number base conversion (by james3mg)](http://www.autoitscript.com/forum/index.php?showtopic=81189) - From, to and between positive bases less than 63 (decimals supported).
+- [NumToWord (by Mat)](http://www.autoitscript.com/forum/index.php?showtopic=117156) - Convert numerals to a human readable string.
+- [Polynomials (by Mat)](http://www.autoitscript.com/forum/index.php?showtopic=108803) - Functions for using polynomials.
+- [Primes (by jennico)](http://www.autoitscript.com/forum/index.php?showtopic=83091) - Many functions dealing with prime number generation and calculations.
+- [Roman Numerals (by AZJIO)](http://www.autoitscript.com/forum/topic/94770-integer-to-roman-numerals/#entry1043544) - Roman Numerals.
+- [Root function (by Mat)](http://www.autoitscript.com/forum/index.php?showtopic=98160) - Working out real roots of numbers.
+- [StringAPL (by minx)](http://www.autoitscript.com/forum/index.php?showtopic=163899) - inline APL interpreter.
+- [Trigonometry math functions (by trancexx)](http://www.autoitscript.com/forum/index.php?showtopic=82722) - _ATan2(), _Cosh(), _Frexp(), _Hypot(), _Ldexp(), _Logb(), _Sinh(), _Tanh().
+
+### Media
+
+- [FreeImage library (by ProgAndy)](http://www.autoitscript.com/forum/index.php?showtopic=95357) - Various operations on images, such as rotate, resize, flip.
+- [HtmlHelp (by Geodetic)](http://www.autoitscript.com/forum/index.php?showtopic=127263) - HtmlHelp UDF.
+- [OCR (by ptrex)](http://www.autoitscript.com/forum/index.php?showtopic=50608) - Real OCR in AU3 - MODI with MS Office 2003.
+- [OCR (by seangriffin)](http://www.autoitscript.com/forum/index.php?showtopic=89542) - Tesseract (Screen OCR) UDF.
+- [Printer controller (by martin)](http://www.autoitscript.com/forum/index.php?showtopic=51054) - Print text in any font, size and colour at any position on the page, draw lines, curves, elipses, pies in any colour, and print images.
+- [Printing (by GRS)](http://www.autoitscript.com/forum/index.php?showtopic=73993) - Printing from AutoIt.
+- [RTF_Printer (by mLipok)](http://www.autoitscript.com/forum/index.php?showtopic=161831) - RTF_Printer.au3 - Printing RichEdit in the background.
+- [Simple DirectMedia Layer (by AdmiralClaws)](http://www.autoitscript.com/forum/index.php?showtopic=94834) - Adds support for joysticks, CDs, 2D graphics, timers. See [SDL website](http://www.libsdl.org/) for more information.
+
+### Graphics and image
+
+- [Bitmap Library (by evilertoaster)](http://www.autoitscript.com/forum/index.php?showtopic=27362) - Bitmap Library.
+- [IrrLicht (by A. Percy)](http://www.autoitscript.com/forum/index.php?showtopic=70506) - A 3D graphics engine suitable for creating games.
+- [au3Irrlicht2 (by JRowe)](http://www.autoitscript.com/forum/index.php?showtopic=113881) - Another UDF bringing Irrlicht and au3 together. Historically some kind of a follower of the UDF above, technically with a complete different approach.
+- [ImageGetInfo (by Lazycat)](http://www.autoitscript.com/forum/index.php?showtopic=13096) - This is an UDF for reading info from JPEG, TIFF, BMP, PNG and GIF - size, color depth, resolution.
+- [OpenGL (by LarsJ)](http://www.autoitscript.com/forum/index.php?showtopic=151011) - OpenGL without external libraries etc. For JPEG files UDF also retreive various Exif information.
+- [OpenGL (2.0) (by minx)](http://www.autoitscript.com/forum/index.php?showtopic=148129) - new set of UDFs for OpenGL + AutoIt.
+
+### Players
+
+- [VLC (by seangriffin)](http://www.autoitscript.com/forum/index.php?showtopic=114143) - VLC (Media Player) UDF.
+- [VLC Media Player (by ptrex)](http://www.autoitscript.com/forum/index.php?showtopic=91316) - VLC Media Player.
+- [WMP (by ConsultingJoe)](http://www.autoitscript.com/forum/index.php?showtopic=27352) - Windows Media Player UDF.
+
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
