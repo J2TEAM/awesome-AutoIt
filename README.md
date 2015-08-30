@@ -219,6 +219,106 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [VLC Media Player (by ptrex)](http://www.autoitscript.com/forum/index.php?showtopic=91316) - VLC Media Player.
 - [WMP (by ConsultingJoe)](http://www.autoitscript.com/forum/index.php?showtopic=27352) - Windows Media Player UDF.
 
+### Sound
+
+- [BASS Function Library (by BrettF)](http://www.autoitscript.com/forum/index.php?showtopic=83481) - Sound and Music via wrappers for Bass, BassEnc, Bass FX, BassSFX, BassAsio and BassCd DLLs.
+- [MIDI (by eynstyne)](http://www.autoitscript.com/forum/index.php?showtopic=37072) - MIDI UDF.
+- [SAPIListBox (by seangriffin)](http://www.autoitscript.com/forum/index.php?showtopic=114742) - SAPIListBox (Speech Recognition) UDF.
+- [TTS (by Beege)](http://www.autoitscript.com/forum/index.php?showtopic=100439) - Text-to-Speech UDF.
+- [libZPlay (by Danyfirex)](http://www.autoitscript.com/forum/index.php?showtopic=173808) - UDF for libZPlay - multimedia library for playing mp3, mp2, mp1, ogg, flac, ac3, aac, oga, wav and pcm files and streams.
+
+### PDF
+
+- [Acrobat Reader - ActiveX Viewer (by mLipok)](http://www.autoitscript.com/forum/index.php?showtopic=162195) - Make your own PDF Viewer GUI with Acrobat Reader ActiveX COM Object "AcroPDF.PDF.1"
+- [Debenu PDF Viewer SDK (by mLipok)](http://www.autoitscript.com/forum/index.php?showtopic=164469) - A collection of functions to display PDF files in your applications using Debenu PDF Viewer SDK.
+- [Debenu Quick PDF Library (by mLipok)](http://www.autoitscript.com/forum/index.php?showtopic=160875) - A collection of functions for Debenu Quick PDF Library.
+- [FoxIt Reader (by ptrex)](http://www.autoitscript.com/forum/index.php?showtopic=75832) - PDF Reader in AU3.
+- [MPDF (by taietel)](http://www.autoitscript.com/forum/index.php?showtopic=118827) - Create PDF from your application.
+- [PDFCreator (by ptrex)](http://www.autoitscript.com/forum/index.php?showtopic=42776) - Automation of PDFCreator allows you to create and manipulate PDF files.
+- [PDFCreator (by mLipok)](http://www.autoitscript.com/forum/index.php?showtopic=170550) - UDF for PDFCreator v1.x.x with working EVENTs Handler.
+- [_StringToPDF (by Tam0r)](http://www.autoitscript.com/forum/index.php?showtopic=32261) - Write a string to a PDF file and specify font size, type etc.
+
+### Security
+
+- [VirusTotal (by Danyfirex)](http://www.autoitscript.com/forum/index.php?showtopic=150819) - VirusTotal API 2.0 UDF.
+
+### Social Media and other Website API
+
+- [CrowdinAPI (by mLipok)](http://www.autoitscript.com/forum/index.php?showtopic=169333) - UDF using the [crowdin.net website API](https://crowdin.com/page/api) for some functions (create projects, add and update files, download translations or integrate localization).
+- [Dropbox authenticator (by Gimerly)](http://www.autoitscript.com/forum/files/file/290-dropbox-authenticator/) - Dropbox authenticator.
+- [Easypost (by dcat127)](http://www.autoitscript.com/forum/index.php?showtopic=158106) - Print USPS Postage Labels.
+- [eBay (by seangriffin)](http://www.autoitscript.com/forum/index.php?showtopic=114801) - eBay UDF (functions GetItemStatus and GetSingleItem from the "Shopping API").
+- [Gmail (by PhoenixXL)](http://www.autoitscript.com/forum/index.php?showtopic=141340) - Remote Gmail (UDF).
+- [Google Functions (by Beege)](http://www.autoitscript.com/forum/index.php?showtopic=98504) - Google Functions (Suggestions, Definitions, Translate, Convert).
+- [Google Maps (by seangriffin)](http://www.autoitscript.com/forum/index.php?showtopic=115437) - Google Maps UDF.
+- [iTunes (by torels)](http://www.autoitscript.com/forum/index.php?showtopic=70675) - iTunes UDF.
+- [iTunes (by Beege)](http://www.autoitscript.com/forum/index.php?showtopic=101802) - Another iTunes UDF.
+- [No-IP (by Nessie)](http://www.autoitscript.com/forum/index.php?showtopic=150985) - With this UDF you can simply update your no-ip hostname(s) and retrive the ip address of an no-ip address.
+- [PasteBin (by mrflibblehat)](http://www.autoitscript.com/forum/index.php?showtopic=150838) - Pastebin UDF.
+- [Skype (by FireFox)](http://www.autoitscript.com/forum/index.php?showtopic=121767) - Skype4COM provides an ActiveX interface to the Skype API.
+- [Teamspeak 3 (by chipDE)](http://www.autoitscript.com/forum/index.php?showtopic=113234) - Teamspeak 3 UDF.
+- [TeamViewer API (by mLipok)](http://www.autoitscript.com/forum/index.php?showtopic=166205) - UDF for TeamViewer API - a modest beginning.
+- [TVmaze.com API (by BBs19)](http://www.autoitscript.com/forum/index.php?showtopic=166547) - TVmaze.com API UDF (TV-Series).
+- [Twitter (by seangriffin)](http://www.autoitscript.com/forum/index.php?showtopic=116600) - Twitter UDF.
+- [Yahoo Weather (by Nessie)](http://www.autoitscript.com/forum/index.php?showtopic=149247) - YWeather UDF - Yahoo Weather API.
+- [Youtube Uploader (by BrettF)](http://www.autoitscript.com/forum/index.php?showtopic=112775) - AYTU - AutoIt Youtube Uploader.
+
+### Windows
+
+- [ACL (by ptrex)](http://www.autoitscript.com/forum/index.php?showtopic=50880) - Set ACL on windows Objects.
+- [FileSystemMonitor (by seangriffin)](http://www.autoitscript.com/forum/index.php?showtopic=113560) - FileSystemMonitor UDF.
+- [Firewall (by JLogan3o13)](http://www.autoitscript.com/forum/index.php?showtopic=145158) - Windows Firewall UDF.
+- [ITaskBarList (by Beege)](http://www.autoitscript.com/forum/index.php?showtopic=111018) - ITaskBarList UDF.
+- [Local account (by engine)](http://www.autoitscript.com/forum/index.php?showtopic=74118) - Local account UDF.
+- [Magnifier Functions (by Ascend4nt)](http://www.autoitscript.com/forum/index.php?showtopic=161193) - This UDF exposes most of the useful Magnifier API functions available since Windows Vista.
+- [Registry (by engine)](http://www.autoitscript.com/forum/index.php?showtopic=75250) - Windows Registry UDFs.
+- [Registry (by seanhart)](http://www.autoitscript.com/forum/index.php?showtopic=50551) - RegWriteAllUsers / RegDeleteAllUsers.
+- [Startup (by guinness)](http://www.autoitscript.com/forum/index.php?showtopic=124508) - Create Startup entries in the Startup Folder or Registry.
+- [SCCM (by JLogan3o13)](http://www.autoitscript.com/forum/topic/164756-sccm-udf/) - Systems Center Configuration Manager Library.
+- [System restore (by FredAI)](http://www.autoitscript.com/forum/index.php?showtopic=134628) - System restore UDF.
+- [Taskplanner/Taskscheduler COM (by Allow2010)](http://www.autoitscript.com/forum/index.php?showtopic=135994) - an UDF for using the Windows Taskplaner / Task Scheduler.
+- [Task Scheduler (by dbzfanatic)](http://www.autoitscript.com/forum/index.php?showtopic=83355) - Task Scheduler UDF.
+- [TTS UDF (by Kanashius)](http://www.autoitscript.com/forum/index.php?showtopic=173934) - UDF for use with SAPI Automation Object - text-to-speech (TTS) engine
+- [UAC (by AdamUL)](http://www.autoitscript.com/forum/index.php?showtopic=158377) - User Account Control (UAC) UDF.
+- [WIMGAPI (by Homes32)](http://www.autoitscript.com/forum/index.php?showtopic=127075) - A UDF for manipulating Windows Image Files (.wim) without ImageX.exe.
+- [Windows Events (by Emperor)](http://www.autoitscript.com/forum/index.php?showtopic=28436) - Create your own Windows events.
+- [Windows Services (by engine)](http://www.autoitscript.com/forum/index.php?showtopic=81880) - Windows Services UDF.
+- [WRMF (by Luigi)](http://www.autoitscript.com/forum/index.php?showtopic=163178) - WRMF - Windows Registry Monitor Call Function.
+
+### Misc
+
+- [Android (by Moriba)](http://www.autoitscript.com/forum/index.php?showtopic=160936) - Android UDF.
+- [Animated tray icons (by Yashied)](http://www.autoitscript.com/forum/index.php?showtopic=97826) - Make animated tray icons easily.
+- [Atom Table (by Ascend4nt)](http://www.autoitscript.com/forum/index.php?showtopic=163577) - Store strings locally (at program level) or globally (at OS level) with unique numerical identifiers. This UDF lets you add, find, delete, and query these atoms.
+- [Barcode generators (by willichan)](http://www.autoitscript.com/forum/index.php?showtopic=170087) - Creates a Code128A/B/C or Creates a Code39 or Code39Extended optimized barcode from supplied data.
+- [Binary (by Ward)](http://www.autoitscript.com/forum/index.php?showtopic=131037) - Binary UDF.
+- [BinaryCall (by Ward)](http://www.autoitscript.com/forum/index.php?showtopic=162366) - BinaryCall UDF - Write Subroutines In C, Call In AutoIt.
+- [Clipboard History (by wraithdu)](http://www.autoitscript.com/forum/index.php?showtopic=81267) - Save and restore the entire clipboard contents. Inspired by AHK's ClipboardAll.
+- [CmdLine (by Jefrey)](http://www.autoitscript.com/forum/index.php?showtopic=169610) - Collection of functions to parse command line arguments.
+- [Copy (by Yashied)](http://www.autoitscript.com/forum/index.php?showtopic=121833) - Copy or move files and directories without suspending your script. Retrieve the current state (copied bytes, error code etc.) while copying.
+- [DDEML (by doudou)](http://www.autoitscript.com/forum/index.php?showtopic=55994) - With DDEML UDF one can use an AutoIt script as a DDE client or server.
+- [_DLLStructDisplay (by Ascend4nt)](http://www.autoitscript.com/forum/index.php?showtopic=99106) - Show Struct in ListView.
+- [FASM (by Ward)](http://www.autoitscript.com/forum/index.php?showtopic=111613) - The Embedded Flat Assembler (FASM) UDF.
+- [_FileGetMimeType (by Wiliat87)](http://www.autoitscript.com/forum/index.php?showtopic=157689) - _FileGetMimeType UDF.
+- [File locking with cooperative semaphores (by willichan)](http://www.autoitscript.com/forum/topic/117033-file-locking-with-cooperative-semaphores) - Simple file locking without a server.
+- [FindMimeFromData (by twbradio)](http://www.autoitscript.com/forum/index.php?showtopic=157241) - FindMimeFromData using urlmon.dll.
+- [Hotkey.au3 (by Yashied)](http://www.autoitscript.com/forum/index.php?showtopic=90492) - Management of Hotkeys UDF, with several advantages over HotkeySet().
+- [Inline Assembly (by Ward)](http://www.autoitscript.com/forum/index.php?showtopic=86672) - Assembles the code to binary machine code and runs it.
+- [LFN (by orbs)](http://www.autoitscript.com/forum/index.php?showtopic=161628) - LFN UDF - overcome MAX_PATH limit of 256 chars.
+- [LASM - Light Assembler (by minxomat)](http://www.autoitscript.com/forum/index.php?showtopic=173946) - This is the Inline UDF for an Assembler
+- [MemoryDll (by Ward)](http://www.autoitscript.com/forum/index.php?showtopic=77463) - Embed DLLs in script and call functions from memory.
+- [NoFocusLines (by Melba23)](http://www.autoitscript.com/forum/index.php?showtopic=101733) - Remove the dotted focus lines from buttons, sliders, radios and checkboxes which spoil the look of your GUI.
+- [NotifyIcon (by FireFox)](http://www.autoitscript.com/forum/index.php?showtopic=149176) - NotifyIcon UDF (formerly TrayIconEx) - Create, delete and manage self notify icons.
+- [PixelGetColor (by Manadar)](http://www.autoitscript.com/forum/index.php?showtopic=63318) - Get or Read Pixel from Memory UDF.
+- [RDC (by Yashied)](http://www.autoitscript.com/forum/index.php?showtopic=167024) - ReadDirectoryChanges Wrapper.
+- [Resources (by Zedna)](http://www.autoitscript.com/forum/index.php?showtopic=51103) - Resources UDF.
+- [ResourcesEx (by guinness)](http://www.autoitscript.com/forum/index.php?showtopic=162499) - ResourcesEx UDF (up to date with the current AutoIt language syntax v3.3.12.0).
+- [Spell Checker (by iCode)](http://www.autoitscript.com/forum/index.php?showtopic=162033) - Spell Checker UDF - Hunspell.
+- [StringSize (by Melba23)](http://www.autoitscript.com/forum/index.php?showtopic=114034) - Automatically size controls to fit the text you want to put in them.
+- [Synology filestation (by nend)](http://www.autoitscript.com/forum/index.php?showtopic=164444) - UDF for users of Synology NAS server.
+- [TVExplorer (by Yashied)](http://www.autoitscript.com/forum/index.php?showtopic=125251) - TVExplorer UDF.
+- [SciLexer (by Kip)](http://www.autoitscript.com/forum/index.php?showtopic=51547) - SciLexer UDF.
+
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
