@@ -6,7 +6,7 @@ Created by [Juno_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome]
 
 ## UDF/Libraries
 
-*Listing of libraries of **user defined functions** (UDF). These libraries have been written to allow easy integration into your own scripts and are a very valuable resource for any programmer.*
+Listing of libraries of **user defined functions** (UDF). These libraries have been written to allow easy integration into your own scripts and are a very valuable resource for any programmer.
 
 ### Automation
 
@@ -33,6 +33,15 @@ Created by [Juno_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome]
 - [IEEx (by SmOke_N)](http://www.autoitscript.com/forum/index.php?showtopic=167035) - IE extended library with some Javascript options.
 - [NavInfo (by Nessie)](http://www.autoitscript.com/forum/index.php?showtopic=149203) - With this UDF you can check if a specified browser/software is installed and which version is being used.
 - [Opera (by MrCreatoR)](http://www.autoitscript.com/forum/index.php?showtopic=61090) - The same as above for Opera. Automate the most common tasks in Opera with the Opera UDF.
+
+#### Microsoft Office
+
+- [Microsoft Office Access (by randallc)](http://www.autoitscript.com/forum/index.php?showtopic=32144) - Automate Microsoft Access.
+- Microsoft Office Excel (by water et al.) - This UDF is included in AutoIt. Link to the [documentation](https://www.autoitscript.com/wiki/Excel_UDF) pages.
+- [Microsoft Office Excel Charts (by water, GreenCan)](http://www.autoitscript.com/forum/index.php?showtopic=135312) - Creating charts using Microsoft Excel.
+- [Microsoft Office Outlook (by water)](http://www.autoitscript.com/forum/index.php?showtopic=126305) - Automate Microsoft Outlook. Link to the [documentation](https://www.autoitscript.com/wiki/OutlookEX_UDF_-_General) pages.
+- [Microsoft Office PowerPoint (by Toady)](http://www.autoitscript.com/forum/index.php?showtopic=50254) - Automate Microsoft PowerPoint.
+- Microsoft Office Word (by water et al.) - This UDF is included in AutoIt. Link to the [documentation](https://www.autoitscript.com/wiki/Word_UDF) pages.
 
 
 ## License
