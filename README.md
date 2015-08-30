@@ -341,9 +341,29 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
  + [French Forum](http://www.autoitscript.fr/)
  + [Brazilian Forum](http://forum.autoitbrasil.com/)
 - [AutoIt Wiki](https://www.autoitscript.com/wiki)
+- [Programs](https://www.autoitscript.com/wiki/AutoIt_Programs) - a list of programs created in AutoIt.
+- [AutoIt Group on Facebook](https://www.facebook.com/groups/autoitscript/) (Vietnamese).
+
+### Guides/Tutorials
+
+- [Tutorials](https://www.autoitscript.com/wiki/Tutorials) - There are many tutorials available for AutoIt. This page is an overview of a few known tutorials.
 - [Best coding practices](https://www.autoitscript.com/wiki/Best_coding_practices) - a detailed explanation of what are to be considered the best coding practices within AutoIt. These recommendations are based on accepted coding practices common to a number of other programming languages. You do not need to follow them, but it is recommended that you do.
 - [Snippets](https://www.autoitscript.com/wiki/AutoIt_Snippets) - generally single functions or small pieces of code which can be incorporated into a script to add extra functionality.
-- [Programs](https://www.autoitscript.com/wiki/AutoIt_Programs) - a list of programs created in AutoIt.
+
+### Videos
+
+- [AutoIt Tutorials](https://www.youtube.com/playlist?list=PL1DCD109B801D0DE6) by 403forbidden403.
+- [AutoIt Tutorials](https://www.youtube.com/user/AutoitFrench/videos) by AutoitFrench.
+- [AutoIt for Beginner](https://www.youtube.com/playlist?list=PLNeDQQ_ukvRoz5IKgFy1pgfZVqDuZf5X2) by Lee Sai.
+- [AutoIt for Beginner](https://www.youtube.com/playlist?list=PLADZ5XR0fS9B1AL1FmLUCfrXoRu2nYOKu) by Hai The Luong.
+- [Advanced AutoIt Tutorials](https://www.youtube.com/playlist?list=PLmih97dpVwH5n-SEw-IIBZsbw4-B-9dSE) by Juno_okyo [[Subscribe](http://goo.gl/J92rsc)].
+
+### Books
+
+- [AutoIt v3: Your Quick Guide](http://shop.oreilly.com/product/9780596515126.do) by Andy Flesner ([Download PDF](https://www.google.com/search?q=AutoIt+v3%3A+Your+Quick+Guide+filetype%3Apdf)).
+- [Instant AutoIt Scripting](https://books.google.com.vn/books?id=TgY2-RSxhDUC) by Emilio Aristides de Fez Laso.
+- [AutoIT Scripting For Beginners](https://books.google.com.vn/books?id=ugdeCgAAQBAJ) by Rajan.
+- [Learn To Program Using FREE Tools with AutoIt 1.2](https://www.autoitscript.com/forum/files/file/351-learn-to-program-using-free-tools-with-autoit/) by Jfish.
 
 ## License
 
