@@ -331,7 +331,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 ### Documents
 
 - [AutoIt Online Document](https://www.autoitscript.com/autoit3/docs/)
-- [SciTE4AutoIt3 Online Document](https://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3.html)
+- [SciTE4AutoIt3 Online Document](https://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3.html) | [Wiki](https://www.autoitscript.com/wiki/SciTE4AutoIt3)
 
 ### Websites
 
@@ -339,6 +339,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [AutoIt Forum](https://www.autoitscript.com/forum/)
  + [Vietnamese Forum](http://hocautoit.com/)
  + [French Forum](http://www.autoitscript.fr/)
+ + [Brazilian Forum](http://forum.autoitbrasil.com/)
 - [AutoIt Wiki](https://www.autoitscript.com/wiki)
 - [Best coding practices](https://www.autoitscript.com/wiki/Best_coding_practices) - a detailed explanation of what are to be considered the best coding practices within AutoIt. These recommendations are based on accepted coding practices common to a number of other programming languages. You do not need to follow them, but it is recommended that you do.
 - [Snippets](https://www.autoitscript.com/wiki/AutoIt_Snippets) - generally single functions or small pieces of code which can be incorporated into a script to add extra functionality.
