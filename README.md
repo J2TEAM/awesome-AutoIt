@@ -1,12 +1,12 @@
 # Awesome AutoIt [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome [UDF](https://en.wikipedia.org/wiki/User-defined_function)s, example scripts, tools and useful resources for [AutoIt](https://www.autoitscript.com/).
+> A curated list of awesome UDFs, example scripts, tools and useful resources for [AutoIt](https://www.autoitscript.com/).
 
 Created by [Juno_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## UDF/Libraries
 
-Listing of libraries of **user defined functions** (UDF). These libraries have been written to allow easy integration into your own scripts and are a very valuable resource for any programmer.
+Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki/User-defined_function)** (UDF). These libraries have been written to allow easy integration into your own scripts and are a very valuable resource for any programmer.
 
 ### Automation
 
@@ -62,6 +62,24 @@ Listing of libraries of **user defined functions** (UDF). These libraries have b
 - [SQLite Array Functions (by SmOke_N)](http://www.autoitscript.com/forum/index.php?showtopic=142977) - SQLite Array Functions - a faster method for unique arrays and sorting methods.
 - [XML DOM Wrapper (by eltorro)](http://www.autoitscript.com/forum/index.php?showtopic=19848) - Supports CRUD operations on XML. Including XSL and XPath.
 - [AutoIt PHP MySQL (by J2TeaM)](https://www.autoitscript.com/forum/topic/173984-the-combination-of-autoit-php-and-mysql/) - The combination of AutoIt, PHP and MySQL.
+
+### Data compression
+
+- [7z, zip, gzip, bzip2, tar (by rasim)](http://www.autoitscript.com/forum/index.php?showtopic=85094) - Extensive library that uses a external DLL that must be provided with the script.
+- [LZMA (by trancexx)](http://www.autoitscript.com/forum/index.php?showtopic=87441) - LZMA (Native Windows).
+- [LZMA Compression (by Ward)](http://www.autoitscript.com/forum/index.php?showtopic=112273) - LZMA Compression UDF.
+- [MessagePack (by Ward)](http://www.autoitscript.com/forum/index.php?showtopic=166634) - MessagePack is an efficient binary serialization format. It lets you exchange data among multiple languages like JSON. But it's faster and smaller.
+- [Package (by Yashied)](http://www.autoitscript.com/forum/index.php?showtopic=138838) - Package UDF.
+- [pZip (by asdf8)](http://www.autoitscript.com/forum/index.php?showtopic=129529) - PureZIP_L library UDF.
+- [UnRAR (by rasim)](http://www.autoitscript.com/forum/index.php?showtopic=76176) - UnRAR.au3.
+- [Zip plugin (by eltorro)](http://www.autoitscript.com/forum/index.php?showtopic=44524) - Zip plugin.
+- [ZIP (by torels)](http://www.autoitscript.com/forum/index.php?showtopic=73425) - ZIP.au3 UDF in pure AutoIt.
+- [zip (by wraithdu)](http://www.autoitscript.com/forum/index.php?showtopic=116565) - Create ZIP files and unpack ZIP files.
+- [ZIP (by joakim)](http://www.autoitscript.com/forum/index.php?showtopic=135565) - ZIP STRUCTS UDF (from scratch).
+- [zLib (by Ward)](http://www.autoitscript.com/forum/index.php?showtopic=128962) - zLib (Deflate/Inflate/GZIP) UDF.
+- [XZip (by eltorro)](http://www.autoitscript.com/forum/index.php?showtopic=17727) - another UDF for "XStandard XZIP Component".
+- [XZip (by mLipok)](http://www.autoitscript.com/forum/index.php?showtopic=161847) - UDF for "XStandard XZIP Component".
+
 
 ## License
 
