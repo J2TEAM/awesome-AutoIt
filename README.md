@@ -80,6 +80,30 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [XZip (by eltorro)](http://www.autoitscript.com/forum/index.php?showtopic=17727) - another UDF for "XStandard XZIP Component".
 - [XZip (by mLipok)](http://www.autoitscript.com/forum/index.php?showtopic=161847) - UDF for "XStandard XZIP Component".
 
+### Encryption and hash
+
+- [AES Rijndael (by Ward)](http://www.autoitscript.com/forum/index.php?showtopic=78745) - Very fast AES UDF. Support ECB/CBC/CFB/OFB block cipher mode.
+- [MD5,SHA1,CRC32,RC4,BASE64,XXTEA (by Ward)](http://www.autoitscript.com/forum/index.php?showtopic=76976) - Several encryption and hash functions.
+- [TrueCrypt (by FuryCell)](http://www.autoitscript.com/forum/index.php?showtopic=107784) - TrueCrypt UDFs.
+
+### GUI Additions
+
+- [3D Pie chart (by WideBoyDixon)](http://www.autoitscript.com/forum/index.php?showtopic=97241) - 3D Pie chart.  
+- [Chart_UDF (by Kanashius)](http://www.autoitscript.com/forum/index.php?showtopic=173924) - This UDF can be used to Display bar charts in a window.).  
+- [ContextHelp.au3 (by Yashied)](http://www.autoitscript.com/forum/index.php?showtopic=96258) - Management of context help ([original](http://www.autoitscript.com/forum/index.php?showtopic=72152-contexthelp/)).  
+- [Easy Scrollbars (by Melba23)](http://www.autoitscript.com/forum/index.php?showtopic=113723) - Easily create scrollable sections in your GUI.  
+- [ExtMsgBox (by Melba23)](http://www.autoitscript.com/forum/index.php?showtopic=109096) - A very customisable replacement for MsgBox.  
+- [GUICtrlOnChangeRegister (by Mat)](http://www.autoitscript.com/forum/index.php?showtopic=105582) - Call a function when an edits content is changed.  
+- [GUIExtender (by Melba23)](http://www.autoitscript.com/forum/index.php?showtopic=145149) - Expand and contract sections of your GUI ([original](http://www.autoitscript.com/forum/index.php?showtopic=117909)).  
+- [GUIFrame (by Melba23 & Kip)](http://www.autoitscript.com/forum/index.php?showtopic=119505) - Divide a GUI into adjustable frames.  
+- [GUI Panel (by FireFox)](http://www.autoitscript.com/forum/index.php?showtopic=144207) - Manage child GUIs as panel ctrls.  
+- [Modern tray menu (by Holger)](http://www.autoitscript.com/forum/index.php?showtopic=20967) - Allows the creation of modern, fancy GUI and tray menus with icons and colors.  
+- [Pie chart (by Andreik)](http://www.autoitscript.com/forum/index.php?showtopic=161750) - Pie chart.  
+- [SetOnEvent (by martin)](http://www.autoitscript.com/forum/index.php?showtopic=71811) - Provides an easy way for an event to call functions with parameters.  
+- [Uskin (by JScript)](http://www.autoitscript.com/forum/index.php?showtopic=132864) - A library that allows a user to skin their application GUI using the Windows _.MSstyles_ files.  
+- [Toast (by Melba23)](http://www.autoitscript.com/forum/index.php?showtopic=108445) - Small message GUIs which pop out of the Systray.  
+- [XSkin (by Valuater)](http://www.autoitscript.com/forum/index.php?showtopic=32494) - A large library that allows skinning of your GUI and to apply custom skins.  
+- [Real Vista Aero Glass (by James)](http://www.autoitscript.com/forum/index.php?showtopic=75429) - Real Vista Aero Glass UDF - you can apply glass effect to your gui.
 
 ## License
 
