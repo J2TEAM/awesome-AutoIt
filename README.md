@@ -42,6 +42,7 @@ Created by [Juno_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome]
     - [Videos](#videos)
     - [Books](#books)
   - [License](#license)
+  - [Other Awesome Lists](#other-awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
