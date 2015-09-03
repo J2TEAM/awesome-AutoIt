@@ -363,7 +363,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 
 ## Tools
 
-- [SciTE4AutoIt3](https://www.autoitscript.com/site/autoit-script-editor/downloads/) contains SciTE, wrapped into a single installer with all needed configuration settings and lots of utility programs like [AutoIt3Wrapper](/autoit3/scite/docs/SciTE4AutoIt3/AutoIt3Wrapper.html), [SciTEConfig](/autoit3/scite/docs/SciTE4AutoIt3/SciTEConfig.html), [Tidy](/autoit3/scite/docs/SciTE4AutoIt3/Tidy.html), [Au3Stripper](http://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/Au3Stripper.html) etc to enhanced SciTE for use with AutoIt3.
+- [SciTE4AutoIt3](https://www.autoitscript.com/site/autoit-script-editor/downloads/) contains SciTE, wrapped into a single installer with all needed configuration settings and lots of utility programs like [AutoIt3Wrapper](http://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/AutoIt3Wrapper.html), [SciTEConfig](http://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/SciTEConfig.html), [Tidy](http://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/Tidy.html), [Au3Stripper](http://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/Au3Stripper.html) etc to enhanced SciTE for use with AutoIt3.
 - [KODA Form Designer](http://koda.darkhost.ru/) - a standalone application that was developed to help creating forms (GUIs) for AutoIt3 scripting language. It's included in SciTE4AutoIt3.
 - [ISN AutoIt Studio](http://www.isnetwork.at/index.php?option=com_content&view=article&id=10&Itemid=115) - a complete IDE for the AutoIt programming language.
 - [ISN AutoIT form Studio](http://www.isnetwork.at/index.php?option=com_content&view=article&id=7&Itemid=116) - Graphical Form Designer for AutoIt.
