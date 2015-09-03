@@ -382,6 +382,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
  + [Vietnamese Forum](http://hocautoit.com/)
  + [French Forum](http://www.autoitscript.fr/)
  + [Brazilian Forum](http://forum.autoitbrasil.com/)
+ + [Germany Forum](http://autoit.de/)
 - [AutoIt Wiki](https://www.autoitscript.com/wiki)
 - [Programs](https://www.autoitscript.com/wiki/AutoIt_Programs) - a list of programs created in AutoIt.
 - [AutoIt Group on Facebook](https://www.facebook.com/groups/autoitscript/) (Vietnamese).
