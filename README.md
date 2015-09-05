@@ -293,6 +293,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Gmail (by PhoenixXL)](http://www.autoitscript.com/forum/index.php?showtopic=141340) - Remote Gmail (UDF).
 - [Google Functions (by Beege)](http://www.autoitscript.com/forum/index.php?showtopic=98504) - Google Functions (Suggestions, Definitions, Translate, Convert).
 - [Google Maps (by seangriffin)](http://www.autoitscript.com/forum/index.php?showtopic=115437) - Google Maps UDF.
+- [Imgur](https://github.com/J2TeaM/AutoIt-Imgur-UDF) - An AutoIt UDF to help you upload images using Imgur API.
 - [iTunes (by torels)](http://www.autoitscript.com/forum/index.php?showtopic=70675) - iTunes UDF.
 - [iTunes (by Beege)](http://www.autoitscript.com/forum/index.php?showtopic=101802) - Another iTunes UDF.
 - [No-IP (by Nessie)](http://www.autoitscript.com/forum/index.php?showtopic=150985) - With this UDF you can simply update your no-ip hostname(s) and retrive the ip address of an no-ip address.
