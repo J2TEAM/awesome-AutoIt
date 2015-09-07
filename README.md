@@ -41,6 +41,7 @@ Created by [Juno_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome]
     - [Guides/Tutorials](#guidestutorials)
     - [Videos](#videos)
     - [Books](#books)
+    - [Syntax Highlighter](#syntax-highlighter)
   - [License](#license)
   - [Other Awesome Lists](#other-awesome-lists)
 
@@ -408,6 +409,11 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Instant AutoIt Scripting](https://books.google.com.vn/books?id=TgY2-RSxhDUC) by Emilio Aristides de Fez Laso.
 - [AutoIT Scripting For Beginners](https://books.google.com.vn/books?id=ugdeCgAAQBAJ) by Rajan.
 - [Learn To Program Using FREE Tools with AutoIt 1.2](https://www.autoitscript.com/forum/files/file/351-learn-to-program-using-free-tools-with-autoit/) by Jfish.
+
+### Syntax Highlighter
+
+- [HighLight.js](https://highlightjs.org/) - Added AutoIt since version 8.7
+- [Crayon Syntax Highlighter](http://wordpress.org/extend/plugins/crayon-syntax-highlighter/) - Added AutoIt since version 1.8.2
 
 ## License
 
