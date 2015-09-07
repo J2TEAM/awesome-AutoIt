@@ -412,8 +412,10 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 
 ### Syntax Highlighter
 
-- [HighLight.js](https://highlightjs.org/) - Added AutoIt since version 8.7
-- [Crayon Syntax Highlighter](http://wordpress.org/extend/plugins/crayon-syntax-highlighter/) - Added AutoIt since version 1.8.2
+- [GeSHi - Generic Syntax Highlighter](http://qbnz.com/highlighter/)
+- [Highlight.js](https://highlightjs.org/) - Added AutoIt since version 8.7
+- [Crayon Syntax Highlighter](http://wordpress.org/extend/plugins/crayon-syntax-highlighter/) (WordPress Plugin) - Added AutoIt since version 1.8.2
+- [WP Syntax](https://wordpress.org/plugins/wp-syntax/) (WordPress Plugin) - based on GeSHi.
 
 ## License
 
