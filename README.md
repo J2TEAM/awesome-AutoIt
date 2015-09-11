@@ -428,10 +428,10 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 ## Other Awesome Lists
 
 - [awesome](https://github.com/sindresorhus/awesome) by @sindresorhus
+- [awesome-all](https://github.com/bradoyler/awesome-all) by @bradoyler
 - [awesome-awesome](https://github.com/emijrp/awesome-awesome) by @emijrp
 - [awesome-awesome](https://github.com/erichs/awesome-awesome) by @erichs
 - [awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
-- [awesome-all](https://github.com/bradoyler/awesome-all) by @bradoyler
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) by @bayandin
 - [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) by @fleveque
 - [awesome-collection](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
