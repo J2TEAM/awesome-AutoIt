@@ -437,3 +437,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 - [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) by @fleveque
 - [awesome-collection](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
 - [lists](https://github.com/jnv/lists) by @jnv
+
+[[Back to Top](#awesome-autoit-)]
