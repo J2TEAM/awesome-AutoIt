@@ -385,7 +385,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
  + [Vietnamese Forum (AutoIt VN)](http://autoitvn.com/)
  + [French Forum](http://www.autoitscript.fr/)
  + [Brazilian Forum](http://forum.autoitbrasil.com/)
- + [Germany Forum](http://autoit.de/)
+ + [Germany Forum](https://autoit.de/)
 - [AutoIt Wiki](https://www.autoitscript.com/wiki)
 - [Programs](https://www.autoitscript.com/wiki/AutoIt_Programs) - a list of programs created in AutoIt.
 - [AutoIt Group on Facebook](https://www.facebook.com/groups/autoitscript/) (Vietnamese).
@@ -415,7 +415,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 
 - [GeSHi - Generic Syntax Highlighter](http://qbnz.com/highlighter/)
 - [Highlight.js](https://highlightjs.org/) - Added AutoIt since version 8.7
-- [Crayon Syntax Highlighter](http://wordpress.org/extend/plugins/crayon-syntax-highlighter/) (WordPress Plugin) - Added AutoIt since version 1.8.2
+- [Crayon Syntax Highlighter](https://wordpress.org/plugins/crayon-syntax-highlighter/) (WordPress Plugin) - Added AutoIt since version 1.8.2
 - [WP Syntax](https://wordpress.org/plugins/wp-syntax/) (WordPress Plugin) - based on GeSHi.
 
 ## License
