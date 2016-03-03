@@ -363,6 +363,8 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Synology filestation (by nend)](http://www.autoitscript.com/forum/index.php?showtopic=164444) - UDF for users of Synology NAS server.
 - [TVExplorer (by Yashied)](http://www.autoitscript.com/forum/index.php?showtopic=125251) - TVExplorer UDF.
 - [SciLexer (by Kip)](http://www.autoitscript.com/forum/index.php?showtopic=51547) - SciLexer UDF.
+- [AutoItAppveyor (by KyleChamberlin)](https://github.com/AutoItMicro/AutoItAppveyor) - This library contains functions for integrating your AutoIt scripts and programs with Appveyor CI.
+- [Micro Unit Testing Framework (by KyleChamberlin)](https://github.com/AutoItMicro/MicroUnitTestingFramework) - Micro is a xUnit style testing framework design for use with AutoIt.
 
 ## Tools
 
