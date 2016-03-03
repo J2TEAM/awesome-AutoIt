@@ -384,8 +384,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 
 - [Official Website](https://www.autoitscript.com/)
 - [Official Forum](https://www.autoitscript.com/forum/)
- + [Vietnamese Forum (Học AutoIt)](http://hocautoit.com/)
- + [Vietnamese Forum (AutoIt VN)](http://autoitvn.com/)
+ + [Vietnamese Forum](http://autoitvn.com/)
  + [French Forum](http://www.autoitscript.fr/)
  + [Brazilian Forum](http://forum.autoitbrasil.com/)
  + [Germany Forum](https://autoit.de/)
