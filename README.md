@@ -404,7 +404,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [AutoIt Tutorials](https://www.youtube.com/user/AutoitFrench/videos) by AutoitFrench.
 - [AutoIt for Beginner](https://www.youtube.com/playlist?list=PLNeDQQ_ukvRoz5IKgFy1pgfZVqDuZf5X2) by Lee Sai.
 - [AutoIt for Beginner](https://www.youtube.com/playlist?list=PLADZ5XR0fS9B1AL1FmLUCfrXoRu2nYOKu) by Hai The Luong.
-- [Advanced AutoIt Tutorials](https://www.youtube.com/playlist?list=PLmih97dpVwH5n-SEw-IIBZsbw4-B-9dSE) by Juno_okyo [[Subscribe](http://goo.gl/J92rsc)].
+- [Advanced AutoIt Tutorials](https://www.youtube.com/playlist?list=PLmih97dpVwH5n-SEw-IIBZsbw4-B-9dSE) by Juno\_okyo [[Subscribe](https://www.youtube.com/channel/UCEETpUrNm5qI-LENbBON2Gw/?sub_confirmation=1)].
 
 ### Books
 
