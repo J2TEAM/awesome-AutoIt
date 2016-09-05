@@ -445,4 +445,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 - [awesome-collection](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
 - [lists](https://github.com/jnv/lists) by @jnv
 
-[[Back to Top](#awesome-autoit-)]
+[[Back to Top](#awesome-autoit)]
