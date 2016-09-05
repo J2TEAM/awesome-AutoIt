@@ -1,4 +1,8 @@
-# Awesome AutoIt [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome AutoIt
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Creator](https://img.shields.io/badge/Creator-Juno__okyo-blue.svg)](https://junookyo.blogspot.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/juno_okyo.svg?label=Follow&maxAge=2592000)](https://twitter.com/juno_okyo)
 
 > A curated list of awesome UDFs, example scripts, tools and useful resources for [AutoIt](https://www.autoitscript.com/).
 
@@ -404,7 +408,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [AutoIt Tutorials](https://www.youtube.com/user/AutoitFrench/videos) by AutoitFrench.
 - [AutoIt for Beginner](https://www.youtube.com/playlist?list=PLNeDQQ_ukvRoz5IKgFy1pgfZVqDuZf5X2) by Lee Sai.
 - [AutoIt for Beginner](https://www.youtube.com/playlist?list=PLADZ5XR0fS9B1AL1FmLUCfrXoRu2nYOKu) by Hai The Luong.
-- [Advanced AutoIt Tutorials](https://www.youtube.com/playlist?list=PLmih97dpVwH5n-SEw-IIBZsbw4-B-9dSE) by Juno\_okyo [[Subscribe](https://www.youtube.com/channel/UCEETpUrNm5qI-LENbBON2Gw/?sub_confirmation=1)].
+- [Advanced AutoIt Tutorials](https://www.youtube.com/playlist?list=PL_-NI9iPtoB741rTw1hjNPirk3jTMKtrQ) by Juno\_okyo [[Subscribe](https://www.youtube.com/channel/UCEETpUrNm5qI-LENbBON2Gw/?sub_confirmation=1)].
 
 ### Books
 
@@ -423,9 +427,9 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 
 ## License
 
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
