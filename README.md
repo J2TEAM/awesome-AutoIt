@@ -165,7 +165,6 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [GUITreeViewEx (by Melba23)](https://www.autoitscript.com/forum/index.php?showtopic=166594) - Check/clear parent and child checkboxes in a TreeView.
 - [GUIHotkey (by Mat)](https://www.autoitscript.com/forum/index.php?showtopic=107965) - UDF for using native hotkey controls.
 - [GUIPager (by Mat)](https://www.autoitscript.com/forum/index.php?showtopic=111438) - Create and control native pager controls.
-- [GUI/Tray Menu (by Holger, LarsJ, AZJIO)](https://www.autoitscript.com/forum/index.php?showtopic=20967) - GUI/Tray Menu with icons and colors.
 - [Hotkey input control (by Yashied)](https://www.autoitscript.com/forum/index.php?showtopic=90598) - Hotkeys Input Control UDF Library (Non-native).
 - [ListView Edit UDF (by Kanashius)](https://www.autoitscript.com/forum/index.php?showtopic=173932) - This UDF can be used to simply edit an Listview.
 - [Marquees (by Melba23)](https://www.autoitscript.com/forum/index.php?showtopic=143711) - Make tickertape info bars.
