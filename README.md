@@ -376,6 +376,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [KODA Form Designer](http://koda.darkhost.ru/) - a standalone application that was developed to help creating forms (GUIs) for AutoIt3 scripting language. It's included in SciTE4AutoIt3.
 - [ISN AutoIt Studio](http://www.isnetwork.at/index.php?option=com_content&view=article&id=10&Itemid=115) - a complete IDE for the AutoIt programming language.
 - [ISN AutoIT form Studio](http://www.isnetwork.at/index.php?option=com_content&view=article&id=7&Itemid=116) - Graphical Form Designer for AutoIt.
+- [AutoIt Obfuscator](https://www.pelock.com/products/autoit-obfuscator) - Obfuscate your AutoIt script source code & algorithms to protect it against reverse engineering analysis, cracking and decompilation.
 
 ## Useful Resources
 
