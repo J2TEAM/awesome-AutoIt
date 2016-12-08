@@ -67,6 +67,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Service (by arcker)](https://www.autoitscript.com/forum/index.php?showtopic=80201) - Build your own service with AutoIt code.
 - [WiFi (by MattyD)](https://www.autoitscript.com/forum/index.php?showtopic=91018) - Low level control over your wireless LAN.
 - [AutoItMonkey](https://github.com/ohtejera/AutoItMonkey) - The AutoItMonkey is an UDF that runs on your Android emulator or device and generates pseudo-random streams of user events such as clicks, touches, or gestures, as well as a number of system-level events.
+- [ImperiusAutoIt](https://ohtejera.github.io/ImperiusAutoIt/) - Imperius AutoIt is an [ImperiusGeorge](https://github.com/lookout/ImperiusGeorge) client for mobile test automation that support native Android apps.
 
 #### Browsers
 
@@ -394,6 +395,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
  + [Brazilian Forum](http://forum.autoitbrasil.com/)
  + [Germany Forum](https://autoit.de/)
  + [Russian Forum](http://autoit-script.ru/)
+ + [Spanish Forum](http://www.emesn.com/autoitforum/)
 - [AutoIt Wiki](https://www.autoitscript.com/wiki)
 - [Programs](https://www.autoitscript.com/wiki/AutoIt_Programs) - a list of programs created in AutoIt.
 - [AutoIt Group on Facebook](https://www.facebook.com/groups/autoitscript/) (Vietnamese).
