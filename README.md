@@ -68,6 +68,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [WiFi (by MattyD)](https://www.autoitscript.com/forum/index.php?showtopic=91018) - Low level control over your wireless LAN.
 - [AutoItMonkey](https://github.com/ohtejera/AutoItMonkey) - The AutoItMonkey is an UDF that runs on your Android emulator or device and generates pseudo-random streams of user events such as clicks, touches, or gestures, as well as a number of system-level events.
 - [ImperiusAutoIt](https://ohtejera.github.io/ImperiusAutoIt/) - Imperius AutoIt is an [ImperiusGeorge](https://github.com/lookout/ImperiusGeorge) client for mobile test automation that support native Android apps.
+- [3270 (by Worlor)](https://github.com/Worlor/AutoIt-3270) - Library for automate a 3270 terminal with AutoIT
 
 #### Browsers
 
