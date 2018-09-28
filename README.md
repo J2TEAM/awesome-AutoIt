@@ -209,6 +209,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [IMAP4 (by Tipulatoid)](https://www.autoitscript.com/forum/index.php?showtopic=108422) - IMAP4 UDF.
 - [IRC (by McGod)](https://www.autoitscript.com/forum/index.php?showtopic=43515) - A lightweight library for communicating with IRC servers.
 - [IRC (by rcmaehl)](https://www.autoitscript.com/forum/index.php?showtopic=159285) - IRC UDF - Updated Version of Chips' IRC UDF.
+- [IRC (by TheDcoder)](https://www.autoitscript.com/forum/topic/181940-thedcoders-irc-udf-full-compliance-with-rfc-2812-and-ircv31/) - Fully compliant with RFC 2812 and IRCv3.1, feature-packed with support for SASL authentication.
 - [JSON (by Gabriel13)](https://www.autoitscript.com/forum/index.php?showtopic=104150) - RFC4627 compliant JSON encode/decode.
 - [JSON (by Ward)](https://www.autoitscript.com/forum/index.php?showtopic=148114) - JSMN - A Non-Strict JSON UDF.
 - [JSON (by ozmike)](https://www.autoitscript.com/forum/index.php?showtopic=156794) - Bridge to Native Windows JSON plus OO extension for AutoIt.
@@ -322,6 +323,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [ITaskBarList (by Beege)](https://www.autoitscript.com/forum/index.php?showtopic=111018) - ITaskBarList UDF.
 - [Local account (by engine)](https://www.autoitscript.com/forum/index.php?showtopic=74118) - Local account UDF.
 - [Magnifier Functions (by Ascend4nt)](https://www.autoitscript.com/forum/index.php?showtopic=161193) - This UDF exposes most of the useful Magnifier API functions available since Windows Vista.
+- [Process UDF (by TheDcoder)](https://www.autoitscript.com/forum/topic/174697-process-udf-get-both-the-output-the-exit-code/) - Interact with processes in Windows, run a process and get both the output and exit code in a single function call!
 - [Registry (by engine)](https://www.autoitscript.com/forum/index.php?showtopic=75250) - Windows Registry UDFs.
 - [Registry (by seanhart)](https://www.autoitscript.com/forum/index.php?showtopic=50551) - RegWriteAllUsers / RegDeleteAllUsers.
 - [Startup (by guinness)](https://www.autoitscript.com/forum/index.php?showtopic=124508) - Create Startup entries in the Startup Folder or Registry.
@@ -349,6 +351,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Copy (by Yashied)](https://www.autoitscript.com/forum/index.php?showtopic=121833) - Copy or move files and directories without suspending your script. Retrieve the current state (copied bytes, error code etc.) while copying.
 - [DDEML (by doudou)](https://www.autoitscript.com/forum/index.php?showtopic=55994) - With DDEML UDF one can use an AutoIt script as a DDE client or server.
 - [_DLLStructDisplay (by Ascend4nt)](https://www.autoitscript.com/forum/index.php?showtopic=99106) - Show Struct in ListView.
+- [Experimental Maps UDF (by TheDcoder)](https://github.com/TheDcoder/Experimental-Maps-UDF) - UDF for the new Map datatype in AutoIt, similar to the Array UDF included in standard UDFs.
 - [FASM (by Ward)](https://www.autoitscript.com/forum/index.php?showtopic=111613) - The Embedded Flat Assembler (FASM) UDF.
 - [_FileGetMimeType (by Wiliat87)](https://www.autoitscript.com/forum/index.php?showtopic=157689) - _FileGetMimeType UDF.
 - [File locking with cooperative semaphores (by willichan)](https://www.autoitscript.com/forum/topic/117033-file-locking-with-cooperative-semaphores) - Simple file locking without a server.
