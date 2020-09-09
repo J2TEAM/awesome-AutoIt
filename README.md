@@ -263,6 +263,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [ImageGetInfo (by Lazycat)](https://www.autoitscript.com/forum/index.php?showtopic=13096) - This is an UDF for reading info from JPEG, TIFF, BMP, PNG and GIF - size, color depth, resolution.
 - [OpenGL (by LarsJ)](https://www.autoitscript.com/forum/index.php?showtopic=151011) - OpenGL without external libraries etc. For JPEG files UDF also retreive various Exif information.
 - [OpenGL (2.0) (by minx)](https://www.autoitscript.com/forum/index.php?showtopic=148129) - new set of UDFs for OpenGL + AutoIt.
+- [Photoshop CS5 (by karime1)](https://www.autoitscript.fr/forum/viewtopic.php?f=21&t=9531) - a new UDF to Control Photoshop CS5 Obj using AutoIt.
 
 ### Players
 
