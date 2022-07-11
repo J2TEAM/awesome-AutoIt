@@ -250,6 +250,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [HtmlHelp (by Geodetic)](https://www.autoitscript.com/forum/index.php?showtopic=127263) - HtmlHelp UDF.
 - [OCR (by ptrex)](https://www.autoitscript.com/forum/index.php?showtopic=50608) - Real OCR in AU3 - MODI with MS Office 2003.
 - [OCR (by seangriffin)](https://www.autoitscript.com/forum/index.php?showtopic=89542) - Tesseract (Screen OCR) UDF.
+- [OCR (by KabueMurage)](https://www.autoitscript.com/forum/topic/206133-ocrspace-udf) - [OCRSpace API](https://ocr.space/) Client UDF.
 - [Printer controller (by martin)](https://www.autoitscript.com/forum/index.php?showtopic=51054) - Print text in any font, size and colour at any position on the page, draw lines, curves, elipses, pies in any colour, and print images.
 - [Printing (by GRS)](https://www.autoitscript.com/forum/index.php?showtopic=73993) - Printing from AutoIt.
 - [RTF_Printer (by mLipok)](https://www.autoitscript.com/forum/index.php?showtopic=161831) - RTF_Printer.au3 - Printing RichEdit in the background.
