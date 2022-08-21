@@ -1,0 +1,8 @@
+title: Awesome AutoIt
+description: A curated list of awesome UDFs, example scripts, tools and resources for AutoIt.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
