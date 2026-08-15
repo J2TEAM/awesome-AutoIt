@@ -66,7 +66,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [SAPWizard (by ozmike)](https://www.autoitscript.com/forum/index.php?showtopic=149540) - SAPWizard UDF.
 - [Service (by arcker)](https://www.autoitscript.com/forum/index.php?showtopic=80201) - Build your own service with AutoIt code.
 - [WiFi (by MattyD)](https://www.autoitscript.com/forum/index.php?showtopic=91018) - Low level control over your wireless LAN.
-- [AutoItMonkey](https://github.com/ohtejera/AutoItMonkey) - The AutoItMonkey is an UDF that runs on your Android emulator or device and generates pseudo-random streams of user events such as clicks, touches, or gestures, as well as a number of system-level events.
+- [AutoItMonkey](https://github.com/htejera/AutoItMonkey) - The AutoItMonkey is an UDF that runs on your Android emulator or device and generates pseudo-random streams of user events such as clicks, touches, or gestures, as well as a number of system-level events.
 - [ImperiusAutoIt](https://ohtejera.github.io/ImperiusAutoIt/) - Imperius AutoIt is an [ImperiusGeorge](https://github.com/lookout/ImperiusGeorge) client for mobile test automation that support native Android apps.
 - [3270 (by Worlor)](https://github.com/Worlor/AutoIt-3270) - Library for automate a 3270 terminal with AutoIT
 
@@ -316,6 +316,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Twitter (by seangriffin)](https://www.autoitscript.com/forum/index.php?showtopic=116600) - Twitter UDF.
 - [Yahoo Weather (by Nessie)](https://www.autoitscript.com/forum/index.php?showtopic=149247) - YWeather UDF - Yahoo Weather API.
 - [Youtube Uploader (by BrettF)](https://www.autoitscript.com/forum/index.php?showtopic=112775) - AYTU - AutoIt Youtube Uploader.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### Windows
 
