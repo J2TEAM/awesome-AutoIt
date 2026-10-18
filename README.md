@@ -177,7 +177,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 
 ### Hardware
 
-- [CommAPI](/wiki/CommAPI "CommAPI") (by therealhanuta) - Serial and parallel communication (COM port, RS-232, LPT port) - without installing DLL's (using Windows API calls).
+- CommAPI (by therealhanuta) - Serial and parallel communication (COM port, RS-232, LPT port) - without installing DLL's (using Windows API calls).
 - [Device Management (by weaponx)](https://www.autoitscript.com/forum/index.php?showtopic=77731) - Device Management API.
 - [DirectShow (by monoceres)](https://www.autoitscript.com/forum/index.php?showtopic=97487) - DirectShow UDF.
 - [DirectSound (by eukalyptus)](https://www.autoitscript.com/forum/index.php?showtopic=164700) - DirectSound UDF.
